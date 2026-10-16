@@ -30,3 +30,7 @@ I care about how goods move — from port to warehouse to doorstep — and about
 ### 🌍 Languages
 
 English (B2) · German (B1) · Hindi (native)
+
+### 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-singh-b89861175)
